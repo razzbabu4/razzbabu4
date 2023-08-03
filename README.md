@@ -1,6 +1,8 @@
+(https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
+
 ### Hi there 👋, I am Md. Tareq Masud
 #### A passionate web developer from Bangladesh
-![A passionate web developer from Bangladesh](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
+![A passionate web developer from Bangladesh]
 
 Love to program
 
