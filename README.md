@@ -2,7 +2,7 @@
 #### A passionate web developer from Bangladesh
 Love to program
 
-Skills: / HTML / CSS / Tailwind
+Skills: / HTML / CSS / Tailwind / JavaScript / React
 
 
 
