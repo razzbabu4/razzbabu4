@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Md. Tareq Masud
-#### A passionate web developer from Bangladesh
+#### A passionate frontend web developer from Bangladesh
 Love to program
 
-Skills: / HTML / CSS / Tailwind / JavaScript / React
+Skills:  HTML / CSS / Tailwind / JavaScript / React.js / Express.js / Firebase / Mongodb
 
 
 
