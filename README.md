@@ -7,7 +7,7 @@
 </h1>
 
 ## 🧑‍💻 About Me
-I'm a recent graduate with a passion for web development, specializing in both front-end and back-end technologies. I excel in creating dynamic, responsive web applications using HTML, CSS, and JavaScript on the front-end, and Node.js and Express on the back-end. I'm eager to continue learning and growing in the tech industry and excited to contribute to impactful projects.
+I'm a recent graduate with a passion for web development, specializing in both front-end and back-end technologies. I excel in creating dynamic, responsive web applications using HTML, CSS, Tailwind CSS, JavaScript, React, and Restful APIs on the front-end, and Node.js and Express on the back-end. I'm eager to continue learning and growing in the tech industry and excited to contribute to impactful projects
 
 ## :chart_with_upwards_trend: Current Stats
 
