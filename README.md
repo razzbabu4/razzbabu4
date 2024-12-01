@@ -14,9 +14,6 @@ I'm a recent graduate with a passion for web development, specializing in both f
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=razzbabu4&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargis21&theme=transparent&hide_border=true&border_radius=4&layout=compact&title_color=E58307&text_color=E58307&bg_color=00000000" alt="Top Languages" />
-</div>
 
 ## 🌐 Connect with Me
 <div align="center"> 
@@ -33,6 +30,9 @@ I'm a recent graduate with a passion for web development, specializing in both f
 
 ## 🛠️ Languages-Frameworks-Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,javascript,react,typescript" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,vscode,git,github,figma" /><br>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razzbabu4&theme=transparent&hide_border=true&border_radius=4&layout=compact&title_color=E58307&text_color=E58307&bg_color=00000000" alt="Top Languages" />
 </div>
