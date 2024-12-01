@@ -15,7 +15,7 @@ I'm a recent graduate with a passion for web development, specializing in both f
     <img src="https://github-readme-streak-stats.herokuapp.com?user=razzbabu4&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razzbabu4&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargis21&theme=transparent&hide_border=true&border_radius=4&layout=compact&title_color=E58307&text_color=E58307&bg_color=00000000" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect with Me
