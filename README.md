@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/razzbabu4/razzbabu4/main/banner.png" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Tareq+Masud!;Junior+MERN+Stack+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Tareq+Masud!;MERN+Stack+Developer" />
 </h1>
 
 ## 🧑‍💻 About Me
@@ -13,6 +13,9 @@ I'm a recent graduate with a passion for web development, specializing in both f
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=razzbabu4&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razzbabu4&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect with Me
